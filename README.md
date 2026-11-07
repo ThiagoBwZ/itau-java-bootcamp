@@ -18,4 +18,12 @@ Repositório destinado ao acompanhamento prático, documentação de estudos e d
 - **Agentes Autônomos:** Sistemas de IA com capacidade de decisão e execução no mundo real através do uso de ferramentas (*tools*), manipulando arquivos, executando comandos de terminal e automatizando fluxos de ponta a ponta.
 
 ---
+
+## 🎯 Módulo 3: Introdução à Engenharia de Prompts
+- **Janela de Contexto & Memória:** Modelos não possuem memória viva persistente entre requisições; a continuidade da conversa depende do reenvio do histórico dentro dos limites da janela de contexto (*context window*).
+- **Estruturação de Prompts Eficazes:** Qualidade das respostas diretamente atrelada à especificidade, delimitação de papéis (*personas/system prompts*), clareza de restrições e definição do formato de saída esperado.
+- **Técnicas de Refinamento:** Abordagens de contextualização prática e estruturação de exemplos diretos para redução de ambiguidade e alucinações.
+- **Boas Práticas e Segurança:** Cuidados operacionais no dia a dia, proteção contra vazamento de dados sensíveis e mitigação de vulnerabilidades como *prompt injection*.
+
+---
 *Status: Em andamento (Previsão de conclusão: Novembro/2026)*

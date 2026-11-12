@@ -26,4 +26,12 @@ Repositório destinado ao acompanhamento prático, documentação de estudos e d
 - **Boas Práticas e Segurança:** Cuidados operacionais no dia a dia, proteção contra vazamento de dados sensíveis e mitigação de vulnerabilidades como *prompt injection*.
 
 ---
+
+## ⚙️ Módulo 4: Arquitetura de Agentes, Harness e Visão Corporativa Itaú
+- **Conceito de Harness:** Ambiente de runtime (ex: Google Antigravity) que conecta o modelo de linguagem (LLM) aos recursos do sistema operacional, habilitando leitura de arquivos, execução de terminal, automação e controle de versão (Git).
+- **Skills e Agentes Especializados:** Instruções e ferramentas modulares para suporte analítico, explicação conceitual e resolução orientada de desafios técnicos sem terceirização do aprendizado.
+- **Engenharia de Software no Setor Bancário:** Papel do Java como espinha dorsal de sistemas transacionais críticos e de alta escala; modernização de infraestrutura com AWS Cloud; primazia de fundamentos de lógica, segurança e observabilidade sobre frameworks temporários.
+- **Cultura de Engenharia & Protagonismo:** Alinhamento a metodologias ágeis em squads multidisciplinares e resolução de problemas reais de negócio.
+
+---
 *Status: Em andamento (Previsão de conclusão: Novembro/2026)*
